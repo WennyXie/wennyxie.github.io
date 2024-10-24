@@ -12,7 +12,7 @@ Prior to joining UVA, I received my Bachelor's degree in Software Engineering fr
 ## News
 - **[June. 2024]** I receive my BSc. in Software Engineering from Fudan University.
 - **[Dec. 2023]** I attend the 19th Conference on Web and Internet Economics (WINE 2023).
-- **[Mar. 2023]** Our paper about combinatorial properties of a group of simplicial complexes is accepted to Fractals!
+- **[Mar. 2023]** Our paper about combinatorial properties for a class of simplicial complexes is accepted to Fractals!
 
 
 {% include_relative _includes/publications.md %}
