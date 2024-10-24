@@ -16,5 +16,3 @@ Prior to joining UVA, I received my Bachelor's degree in Software Engineering fr
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
