@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 0; padding: 0;">Publications</h2>
 
 <!-- Add note section here -->
 <div style="margin: 10px 0;">
