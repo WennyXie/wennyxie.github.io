@@ -1,8 +1,12 @@
 main:
-
+* indicates equal contribution, bold text indicates corresponding authors.
   - title: Combinatorial Properties for a Class of Simplicial Complexes Extended from Pseudo-fractal Scale-free Web
-    authors: Zixuan Xie, Yucheng Wang, Wanyue Xu, Liwang Zhu, Wei Li*, and Zhongzhi Zhang* (*Corresponding authors)
+    authors: Zixuan Xie, Yucheng Wang, Wanyue Xu, Liwang Zhu, **Wei Li**, and **Zhongzhi Zhang**
     conference_short: Fractals
     conference: Fractals-Complex Geometry, Patterns, and Scaling in Nature and Society, 2023.
     pdf: https://doi.org/10.1142/S0218348X23500226
-    image: ./assets/img/fractals(1).png
+
+    - title: Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise
+    authors: Xiaochi Qian*, Zixuan Xie*, Xinyu Liu*, **Shangtong Zhang**
+    pdf: https://arxiv.org/pdf/2411.13711v1
+
