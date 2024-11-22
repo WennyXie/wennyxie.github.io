@@ -14,7 +14,7 @@
       <div class="periodical" style="margin: 0; padding: 0;"><em>{{ link.conference }}</em></div>
     <div class="links" style="margin: 0; padding: 0;">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin: 0; padding: 0;">PDF</a>
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
     </div>
   </div>
