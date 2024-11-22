@@ -1,5 +1,5 @@
 main:
-note: "* indicates equal contribution, bold text indicates corresponding authors."
+  note: "* indicates equal contribution, bold text indicates corresponding authors."
   - title: Combinatorial Properties for a Class of Simplicial Complexes Extended from Pseudo-fractal Scale-free Web
     authors: Zixuan Xie, Yucheng Wang, Wanyue Xu, Liwang Zhu, **Wei Li**, and **Zhongzhi Zhang**
     conference_short: Fractals
