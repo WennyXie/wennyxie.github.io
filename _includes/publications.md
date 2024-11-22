@@ -1,5 +1,10 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+<!-- Add note section here -->
+<div style="margin: 10px 0;">
+  <i>* indicates equal contribution, <strong>bold text</strong> indicates corresponding authors.</i>
+</div>
+
 <div class="publications">
 <ol class="bibliography">
 
@@ -17,7 +22,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <div class="author">{{ link.authors | markdownify }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
