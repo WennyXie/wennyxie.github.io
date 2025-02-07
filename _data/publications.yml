@@ -9,3 +9,7 @@ main:
     authors: "Xiaochi Qian*, Zixuan Xie*, Xinyu Liu*, <strong>Shangtong Zhang</strong>"
     pdf: "https://arxiv.org/abs/2411.13711"
 
+  - title: "Linear $Q$-Learning Does Not Diverge: Convergence Rates to a Bounded Set"
+    authors: "Xinyu Liu*, Zixuan Xie*, <strong>Shangtong Zhang</strong>"
+    pdf: "https://arxiv.org/abs/2501.19254"
+
