@@ -11,5 +11,7 @@ main:
 
   - title: "Linear Q-Learning Does Not Diverge: Convergence Rates to a Bounded Set"
     authors: "Xinyu Liu*, Zixuan Xie*, <strong>Shangtong Zhang</strong>"
+    conference_short: "ICML"
+    conference: "International Conference on Machine Learning, 2025."
     pdf: "https://arxiv.org/abs/2501.19254"
 
