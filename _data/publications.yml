@@ -15,3 +15,8 @@ main:
     conference: "International Conference on Machine Learning, 2025."
     pdf: "https://arxiv.org/abs/2501.19254"
 
+  - title: "Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features"
+    authors: "Zixuan Xie*, Xinyu Liu*, Rohan Chandra, <strong>Shangtong Zhang</strong>"
+    conference_short: "NeurIPS"
+    conference: "The Annual Conference on Neural Information Processing Systems, 2025."
+    pdf: "https://arxiv.org/abs/2505.21391"
