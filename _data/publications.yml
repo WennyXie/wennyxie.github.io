@@ -3,7 +3,7 @@ main:
     authors: "Zixuan Xie, Chang Xu, Yuhua Jiang, Li Zhao"
     conference_short: "Preprint"
     conference: "Preprint, 2026."
-    pdf: "/assets/files/IDM.pdf"
+    pdf: "https://wennyxie.github.io/assets/files/IDM.pdf"
 
   - title: "MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries"
     authors: "Zixuan Xie*, Xinyu Liu*, Shangtong Zhang"
