@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 0; padding: 0;">Publications</h2>
 
-<p style="margin: 0; padding: 0; font-style: italic;">* indicates equal contribution, bold text indicates corresponding authors.</p>
+<p style="margin: 0; padding: 0; font-style: italic;">* indicates equal contribution.</p>
 
 <div class="publications" style="margin: 0; padding: 0;">
 <ol class="bibliography" style="margin: 0; padding: 0; list-style-position: inside;">
