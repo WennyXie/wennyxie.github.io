@@ -4,17 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. student in the Department of Computer Science at the University of Virginia, where I am fortunate to work with <a href="https://shangtongzhang.github.io/" style="text-decoration: none; color: #2196F3;">Prof. Shangtong Zhang</a> in the <a href="https://github.com/Sequential-Intelligence-Lab" style="text-decoration: none; color: #2196F3;">Sequential Intelligence Lab (SIL)</a>. My current research focuses on analyzing the convergence rates of various Reinforcement Learning algorithms under different noise conditions.
+I am a third-year Ph.D. candidate in Computer Science at the University of Virginia, advised by <a href="https://shangtongzhang.github.io/" style="text-decoration: none; color: #2196F3;">Prof. Shangtong Zhang</a> in the <a href="https://github.com/Sequential-Intelligence-Lab" style="text-decoration: none; color: #2196F3;">Sequential Intelligence Lab (SIL)</a>.
 
-Prior to joining UVA, I received my Bachelor's degree in Software Engineering from Fudan University, where I had the privilege of conducting research under the guidance of <a href="https://scholar.google.com/citations?user=DrcEuSkAAAAJ" style="text-decoration: none; color: #2196F3;">Prof. Zhongzhi Zhang</a>. During my academic journey, I also had the valuable opportunity to participate in the Learning, Optimization, and Games reading group led by <a href="https://xiaoqitan.org/" style="text-decoration: none; color: #2196F3;">Prof. Xiaoqi Tan</a> while being an exchange student at the University of Alberta in 2023.
+My research studies how learning algorithms and LLM agents improve through experience. I began with the theoretical foundations of reinforcement learning, studying convergence and finite-sample guarantees, and extended this work to understanding how Transformers implement reinforcement learning in context. My work on formal mathematics explores both <a href="https://arxiv.org/abs/2602.02561" style="text-decoration: none; color: #2196F3;">generating useful lemmas (MathlibLemma)</a> and <a href="https://arxiv.org/abs/2605.07147" style="text-decoration: none; color: #2196F3;">evaluating contributions beyond formal correctness (MathlibPR)</a>. Most recently, during my summer 2026 internship in the Machine Learning Group at Microsoft Research Asia, I worked with <a href="https://chang-xu.github.io/" style="text-decoration: none; color: #2196F3;">Dr. Chang Xu</a> on <a href="{{ '/assets/files/IDM.pdf' | relative_url }}" style="text-decoration: none; color: #2196F3;">self-evolving agents that learn to predict and guide their own improvements</a>.
+
+Previously, I received my bachelor's degree in Software Engineering from Fudan University, where I worked with <a href="https://scholar.google.com/citations?user=DrcEuSkAAAAJ" style="text-decoration: none; color: #2196F3;">Prof. Zhongzhi Zhang</a>. I also visited the University of Alberta as an exchange student in 2023 and participated in the Learning, Optimization, and Games reading group led by <a href="https://xiaoqitan.org/" style="text-decoration: none; color: #2196F3;">Prof. Xiaoqi Tan</a>.
+
+**I am seeking research internship opportunities for Summer 2027. Please feel free to reach out!**
 
 ## News
-- **[Sep. 2025]** Our paper is accepted to NeurIPS 2025!
-- **[May 2025]** Our paper is accepted to ICML 2025!
-- **[Jun. 2024]** I receive my BSc. in Software Engineering as Outstanding Undergraduate Graduate of Fudan University.
-- **[Apr. 2024]** I am accepted into the Ph.D. program in Computer Science at the University of Virginia!
-- **[Dec. 2023]** I attend the 19th Conference on Web and Internet Economics (WINE 2023).
-- **[Mar. 2023]** Our paper about combinatorial properties for a class of simplicial complexes is accepted to Fractals!
 
+- **[Oct. 2026]** Our manuscript, *Predict Before You Modify: Learning Improvement Dynamics for Self-Evolving Agents*, is now available. <a href="{{ '/assets/files/IDM.pdf' | relative_url }}" style="text-decoration: none; color: #2196F3;">[Paper]</a>
+- **[Sep. 2026]** MathlibPR is accepted to the NeurIPS 2026 Evaluations & Datasets Track!
+- **[May 2026]** I joined Microsoft Research Asia as a research intern in the Machine Learning Group.
+- **[Sep. 2025]** Our paper on linear temporal difference learning with arbitrary features is accepted to NeurIPS 2025!
+- **[May 2025]** Our paper on linear Q-learning is accepted to ICML 2025!
 
 {% include_relative _includes/publications.md %}
+
+## Service
+
+Reviewer: ICLR 2026, AISTATS 2026, ICML 2026, NeurIPS 2026.
